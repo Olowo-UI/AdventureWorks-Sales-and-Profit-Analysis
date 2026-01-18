@@ -89,7 +89,8 @@ This project analyzes four years of transactional sales data from AdventureWorks
 
 You can view the detailed analysis and strategic recommendations in the full report:
 
-[Download the Insight Report (PDF)](AdventureWorks_Insight_Report.pdf)
+[Download the Insight Report (PDF)](https://github.com/user-attachments/files/24696229/AdventureWorks_Insight_Report.pdf.pdf)
+
 
 ## Dashboard
 
