@@ -1,5 +1,16 @@
 # AdventureWorks Sales & Profit Analysis (Excel BI Project)
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Objectives](#objectives)
+3. [Business Questions](#business-questions)
+4. [Tools and Methods Used](#tools-and-methods-used)
+5. [Key Analyses Performed](#key-analyses-performed)
+6. [Summary of Key Insights](#summary-of-key-insights)
+7. [Strategic Recommendations](#strategic-recommendations)
+8. [Full Insight Report](#full-insight-report)
+9. [Dashboard](#Dashboard)
+
 ## Project Overview
 
 This project analyzes four years of transactional sales data from AdventureWorks to evaluate overall business performance, with a focus on profit trends, product performance, customer behavior, and geographic insights. The goal was to identify patterns, highlight key drivers of profitability, and support data-driven decision-making.
@@ -72,10 +83,19 @@ This project analyzes four years of transactional sales data from AdventureWorks
 
 - Maintain strong presence in core markets (USA & Australia)
 
+## Full Insight Report
+
+You can view the detailed analysis and strategic recommendations in the full report:
+
+[Download the Insight Report (PDF)](AdventureWorks_Insight_Report.pdf)
+
 ## Dashboard
 
 <img width="1366" height="768" alt="AdventureWorks_Dashboard_01 png" src="https://github.com/user-attachments/assets/4f8859f1-b812-4f44-b005-db422820d01a" />
 
 <img width="1366" height="768" alt="AdventureWorks_Dashboard_02 png" src="https://github.com/user-attachments/assets/7d38eb44-c6fe-4774-ae5c-f2f000aece4b" />
+
+
+
 
 
