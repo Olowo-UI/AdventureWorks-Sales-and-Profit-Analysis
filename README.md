@@ -1,5 +1,7 @@
 # AdventureWorks Sales & Profit Analysis (Excel BI Project)
 
+_A comprehensive view of sales performance over four years, highlighting profit drivers, customer behaviour, and product performance using advanced Excel tools._
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Objectives](#objectives)
