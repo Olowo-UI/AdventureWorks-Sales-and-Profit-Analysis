@@ -71,3 +71,11 @@ This project analyzes four years of transactional sales data from AdventureWorks
 - Focus weekday operations and promotions on peak profit days
 
 - Maintain strong presence in core markets (USA & Australia)
+
+## Dashboard
+
+<img width="1366" height="768" alt="AdventureWorks_Dashboard_01 png" src="https://github.com/user-attachments/assets/4f8859f1-b812-4f44-b005-db422820d01a" />
+
+<img width="1366" height="768" alt="AdventureWorks_Dashboard_02 png" src="https://github.com/user-attachments/assets/7d38eb44-c6fe-4774-ae5c-f2f000aece4b" />
+
+
